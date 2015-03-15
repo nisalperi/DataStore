@@ -1,1 +1,2 @@
 # DataStore
+DataStore used in Aisle Web application. QuotaExceededError: DOM Exception 22 is handled. Refer to https://medium.com/@nisalperi/how-i-solved-the-localstorage-quotaexceedederror-dom-exception-22-b69db46f0cee.
